@@ -92,4 +92,4 @@ username@hostname: /home/user/subdir >
 
 ## Author
 
-Jackson Hagen V01029307
+Jackson Hagen
