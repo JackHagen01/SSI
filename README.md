@@ -1,8 +1,8 @@
-# P1: Simple Shell Interpreter (SSI)
+# Simple Shell Interpreter (SSI)
 
 ## Overview
 
-A basic command-line shell written in C, executes user commands from input. Created for CSC360: Operating Systems.
+A basic command-line shell written in C, executes user commands from input.
 
 ## Features
 
